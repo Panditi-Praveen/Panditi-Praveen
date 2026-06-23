@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm PANDITI PRAVEEN</h1>
 
-<h3 align="center">A Passionate Java & Web Developer from India</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=B.Tech+Graduate+%F0%9F%8E%93;Interested+in+Java+%26+Web+Development+%F0%9F%92%BB;Currently+improving+my+skills+%F0%9F%9A%80;Open+to+Internships+%26+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Graduate;Aspiring+Java+Full+Stack+Developer;Spring+Boot+%7C+Java+%7C+SQL+Developer;Passionate+About+Building+Web+Applications;Open+to+Internships+%26+Job+Opportunities" alt="Typing SVG" />
 </p>
 
----
+### 👨‍💻 About Me
 
-- 🔭 I'm currently working on improving my **Java & Web Development** skills
-- 🌐 All of my projects are available at **[github.com/Panditi-Praveen](https://github.com/Panditi-Praveen)**
-- 📬 How to reach me: **panditipraveen467@gmail.com**
-- 🚀 Currently improving my **development and problem-solving skills**
+🎓 B.Tech in Artificial Intelligence & Data Science
 
----
+💻 Aspiring Java Full Stack Developer
+
+🌱 Currently learning Java, Spring Boot, SQL, HTML, CSS and JavaScript
+
+🚀 Passionate about building scalable web applications and solving real-world problems
+
+📚 Strengthening Data Structures & Algorithms and Backend Development skills
+
+📫 Reach me: panditipraveen467@gmail.com
+
+💼 Open to Internships and Entry-Level Software Developer Opportunities
 
 ### 🤝 Connect with me:
 
