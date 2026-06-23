@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm PANDITI PRAVEEN 👋
 
-<!--
-**Panditi-Praveen/Panditi-Praveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.TECH GRADUATE  
+💻 Interested in Java and Web Development  
+🚀 Currently improving my development and problem-solving skills  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- SQL
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/praveen-panditi/
+
+
+## Goals
+- Build strong development skills
+- Contribute to real-world projects
+- Start my career as a software developer## Hi there 👋
+
+
